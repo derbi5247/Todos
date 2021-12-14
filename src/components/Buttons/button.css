@@ -1,0 +1,16 @@
+.button {
+    border-radius: 15px;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 15px;
+    font-size: 16px;
+    line-height: 16px;
+    background: transparent;
+    cursor: pointer;
+    min-width: 100px;
+    width: 100%;
+}
+
+.buttons:not(:last-child) {
+    margin-right: 15px;
+}
